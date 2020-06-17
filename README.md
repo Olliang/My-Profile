@@ -5,7 +5,7 @@
 
 1. Time Series Forecasting
 2. Statistics Metrices Design
-3. Data Visualization and Data Analysis Report Crafting
+3. Data Analysis Report Crafting with SQL querying and Dashboard building
 4. Predictive Modeling
 5. Customer Segmentation and Retention Analysis
 6. Recommender System
