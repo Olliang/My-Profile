@@ -9,3 +9,8 @@
 4. Predictive Modeling
 5. Customer Segmentation and Retention Analysis
 6. Recommender System
+
+<br>
+A Data Science General Workflow summerized:
+<br>
+![a workflow](https://github.com/Olliang/My-Profile/blob/master/DS%20Workflow.png)
