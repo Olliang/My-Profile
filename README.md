@@ -11,12 +11,18 @@ File: `Resume-OLIVIA.L-Analytics.pdf`
 
 ## Major Fields
 
+**Business Intelligence:** <br>
+1. SQL
+2. Tableau 
+3. Power BI
+<br>
+
+**Data Science:** <br>
 1. Time Series Forecasting
 2. Statistics Metrices Design
-3. Data Analysis Report Crafting with SQL querying and Dashboard building
-4. Predictive Modeling
-5. Customer Segmentation and Retention Analysis
-6. Recommender System
+3. Predictive Modeling
+4. Customer Segmentation and Retention Analysis
+5. Recommender System
 
 <br>
 
