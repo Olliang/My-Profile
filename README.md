@@ -15,3 +15,10 @@ A Data Science General Workflow summerized:
 <br>
 
 ![workflow_](https://github.com/Olliang/My-Profile/blob/master/DS%20Workflow.png)
+
+<br>
+
+SQL practise progress:
+<br>
+
+![workflow_](https://github.com/Olliang/My-Profile/blob/master/Leetcode_SQL_progress.png)
