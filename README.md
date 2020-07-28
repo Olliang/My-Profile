@@ -5,7 +5,7 @@
 
 <br>
 
-![resume](https://github.com/Olliang/My-Profile/blob/master/Resume-OLIVIA.L-Analytics.pdf)
+File: `Resume-OLIVIA.L-Analytics.pdf`
 
 
 
