@@ -10,14 +10,16 @@
 5. Customer Segmentation and Retention Analysis
 6. Recommender System
 
-SQL practise progress:
+<br>
+
+## SQL practise progress:
 <br>
 
 ![workflow_](https://github.com/Olliang/My-Profile/blob/master/Leetcode_SQL_progress.PNG)
 
 <br>
 
-A Data Science General Workflow summerized:
+## A Data Science General Workflow summerized:
 <br>
 
 ![workflow_](https://github.com/Olliang/My-Profile/blob/master/DS%20Workflow.png)
