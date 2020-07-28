@@ -1,6 +1,14 @@
 # My-Profile
 
 
+## Resume
+
+<br>
+
+![resume](https://github.com/Olliang/My-Profile/blob/master/Resume-OLIVIA.L-Analytics.pdf)
+
+
+
 ## Major Fields
 
 1. Time Series Forecasting
