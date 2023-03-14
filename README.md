@@ -16,6 +16,7 @@ File: `Resume-OLIVIA.L-Analytics.pdf`
 2. Tableau 
 3. Power BI
 4. basic ETL concepts
+5. Python
 <br>
 
 **Data Science:** <br>
